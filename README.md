@@ -8,7 +8,7 @@ I'm an American currently residing in Setúbal, Portugal. Open to job offers, co
 - 💬 Ask me about my cat named Spiderman Rackowitz 🐈
 - 📫 How to reach me: sjboggsdev@gmail.com
 - 😄 Pronouns: she/her they/them
-- ⚡ Fun fact: while I currently speak Portuguese poorly, I used to be fluend in American Sign Language
+- ⚡ Fun fact: while I currently speak Portuguese poorly, I used to be fluent in American Sign Language
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.sjboggs.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephaniejboggs/)
