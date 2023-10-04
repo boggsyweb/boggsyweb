@@ -2,7 +2,7 @@
 ## Frontend developer and designer
 ## 🤖 About Me
 I'm an American currently residing in Setúbal, Portugal. Open to job offers, collaborations, and freelance work. 
-- 🔭 I’m currently working on a band website
+- 🔭 I’m currently working on a React component library called Módulo UI
 - 🌱 I’m currently learning NextJS and Tailwind CSS
 - 🤔 I’m looking for help with perspectives from other neurodivergent people in tech
 - 💬 Ask me about my cat named Spiderman Rackowitz 🐈
